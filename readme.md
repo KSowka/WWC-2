@@ -1,4 +1,5 @@
-# uruchomienie 
-
-- w konsoli `npm i` (npm install)
-- `npm start`
+# tools 
+- HTML
+- CSS
+- JS/jQuery
+- RWD
